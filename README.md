@@ -1,16 +1,21 @@
-# React + Vite
+# 💼 Sowjanya Adiraju - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my skills, projects, experience, and journey as a software developer.
 
-Currently, two official plugins are available:
+## 👩‍💻 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm **Sowjanya Adiraju**, a B.Tech Information Technology student passionate about **Full Stack Development** and **Generative AI**. I enjoy building scalable web applications and exploring AI-powered solutions.
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Tailwind CSS
+- JavaScript
+- Framer Motion
+- Vite
 
-## Expanding the ESLint configuration
+## 📫 Contact Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **LinkedIn:** [Sowjanya Adiraju](https://linkedin.com/in/sowjanyaadiraju/)
+- **GitHub:** [Sowjanya Adiraju](https://github.com/Sowjanyaadi316)
+- **Email:** sowjanyaadiraju316@gmail.com
