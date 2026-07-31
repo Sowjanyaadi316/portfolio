@@ -1,6 +1,6 @@
 # 💼 Sowjanya Adiraju - Portfolio
 
-A personal portfolio website showcasing my skills, projects, experience, and journey as a software developer.
+A personal portfolio website showcasing my skills, projects, internship experience, and learning journey in the field of technology.
 
 ## 👩‍💻 About Me
 
