@@ -11,7 +11,8 @@ I'm **Sowjanya Adiraju**, a B.Tech Information Technology student passionate abo
 - React.js
 - Tailwind CSS
 - JavaScript
-- Framer Motion
+- HTML5
+- CSS3
 - Vite
 
 ## 📫 Contact Me
